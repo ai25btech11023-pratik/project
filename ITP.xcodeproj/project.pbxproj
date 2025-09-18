@@ -23,7 +23,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		30FC9D8D2E7C2D0500C7E5C0 /* ITP */ = {
+		30FC9DCC2E7C81F700C7E5C0 /* ITP */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ITP;
 			sourceTree = "<group>";
@@ -44,7 +44,7 @@
 		30FC9D822E7C2D0500C7E5C0 = {
 			isa = PBXGroup;
 			children = (
-				30FC9D8D2E7C2D0500C7E5C0 /* ITP */,
+				30FC9DCC2E7C81F700C7E5C0 /* ITP */,
 				30FC9D8C2E7C2D0500C7E5C0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -71,9 +71,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				30FC9D8D2E7C2D0500C7E5C0 /* ITP */,
 			);
 			name = ITP;
 			packageProductDependencies = (
